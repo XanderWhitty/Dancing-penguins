@@ -1,0 +1,17 @@
+.italize {
+    font-style: italic;
+}
+.bold {
+
+    font-weight: bold;
+}
+.blue {
+    color: blue;
+}
+.font1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.caption{
+    font-size:x-large;
+    color:lightblue;
+}
